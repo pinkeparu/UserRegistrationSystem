@@ -1,0 +1,16 @@
+C:\PROJECTS\StudentLogin\Student\obj\Debug\App.g.cs
+C:\PROJECTS\StudentLogin\Student\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\PROJECTS\StudentLogin\Student\obj\Debug\Student_MarkupCompile.cache
+C:\PROJECTS\StudentLogin\Student\obj\Debug\Student_MarkupCompile.lref
+C:\PROJECTS\StudentLogin\Student\obj\Debug\Student.exe
+C:\PROJECTS\StudentLogin\Student\obj\Debug\Student.pdb
+C:\PROJECTS\StudentLogin\Student\bin\Debug\Student.exe.config
+C:\PROJECTS\StudentLogin\Student\bin\Debug\Student.exe
+C:\PROJECTS\StudentLogin\Student\bin\Debug\Student.pdb
+C:\PROJECTS\StudentLogin\Student\obj\Debug\Student.g.resources
+C:\PROJECTS\StudentLogin\Student\obj\Debug\MVVMApp.Properties.Resources.resources
+C:\PROJECTS\StudentLogin\Student\obj\Debug\MVVMApp.csproj.GenerateResource.Cache
+C:\PROJECTS\StudentLogin\Student\obj\Debug\View\Registration.baml
+C:\PROJECTS\StudentLogin\Student\obj\Debug\View\MainWindow.g.cs
+C:\PROJECTS\StudentLogin\Student\obj\Debug\View\Registration.g.cs
+C:\PROJECTS\StudentLogin\Student\obj\Debug\View\MainWindow.baml

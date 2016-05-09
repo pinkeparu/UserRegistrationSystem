@@ -1,0 +1,30 @@
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\Student\bin\Debug\Student.exe.config
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\Student\bin\Debug\Student.exe
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\Student\bin\Debug\Student.pdb
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\Student\obj\Debug\MainWindow.baml
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\Student\obj\Debug\MainWindow.g.cs
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\Student\obj\Debug\App.g.cs
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\Student\obj\Debug\Student_MarkupCompile.cache
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\Student\obj\Debug\Student.g.resources
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\Student\obj\Debug\Student.Properties.Resources.resources
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\Student\obj\Debug\Student.csproj.GenerateResource.Cache
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\Student\obj\Debug\Student.exe
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\Student\obj\Debug\Student.pdb
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\Student\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\Student\obj\Debug\Student_MarkupCompile.lref
+C:\PROJECTS\StudentLogin\Student\bin\Debug\Student.exe.config
+C:\PROJECTS\StudentLogin\Student\obj\Debug\Student.exe
+C:\PROJECTS\StudentLogin\Student\obj\Debug\Student.pdb
+C:\PROJECTS\StudentLogin\Student\obj\Debug\App.g.cs
+C:\PROJECTS\StudentLogin\Student\obj\Debug\Student_MarkupCompile.cache
+C:\PROJECTS\StudentLogin\Student\obj\Debug\MainWindow.g.cs
+C:\PROJECTS\StudentLogin\Student\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\PROJECTS\StudentLogin\Student\obj\Debug\Student_MarkupCompile.lref
+C:\PROJECTS\StudentLogin\Student\bin\Debug\Student.exe
+C:\PROJECTS\StudentLogin\Student\bin\Debug\Student.pdb
+C:\PROJECTS\StudentLogin\Student\obj\Debug\MainWindow.baml
+C:\PROJECTS\StudentLogin\Student\obj\Debug\Student.g.resources
+C:\PROJECTS\StudentLogin\Student\obj\Debug\Student.Properties.Resources.resources
+C:\PROJECTS\StudentLogin\Student\obj\Debug\Student.csproj.GenerateResource.Cache
+C:\PROJECTS\StudentLogin\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache

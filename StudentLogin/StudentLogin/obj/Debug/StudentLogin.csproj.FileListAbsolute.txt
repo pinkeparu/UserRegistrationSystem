@@ -1,0 +1,6 @@
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\StudentLogin\bin\Debug\StudentLogin.exe.config
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\StudentLogin\bin\Debug\StudentLogin.exe
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\StudentLogin\bin\Debug\StudentLogin.pdb
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\StudentLogin\obj\Debug\StudentLogin.csprojResolveAssemblyReference.cache
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\StudentLogin\obj\Debug\StudentLogin.exe
+c:\users\amma\documents\visual studio 2012\Projects\StudentLogin\StudentLogin\obj\Debug\StudentLogin.pdb
